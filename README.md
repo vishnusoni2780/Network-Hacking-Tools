@@ -5,7 +5,7 @@ Hello guys, this are two tools which is very require to start Network Hacking.
 
 STEPS:
 -------
--> Dwonload both the shell scripts (.sh)
+-> Download both the shell scripts (.sh)
 -> Make them executable using the command
    # chmod +x mac.sh
    # chmod +x mode.sh
