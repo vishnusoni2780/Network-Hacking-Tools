@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Changing MAC address..."
+echo "Changing Mode of ${1} interface..."
 echo "------------------------"
 echo " " 
 echo "[+] Interface Down."
@@ -13,4 +13,3 @@ ifconfig ${1} up
 echo " "
 echo "----------"       
 echo ">>> MODE SUCCESSFULLY CHANGED."
-
