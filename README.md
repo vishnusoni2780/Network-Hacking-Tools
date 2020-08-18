@@ -17,4 +17,5 @@ STEPS:
 CROSS-CHECK:
 -------------
 -> to check MAC address modification, run:  ifconfig
+
 -> to check Mode of interface, run: iwconfig
